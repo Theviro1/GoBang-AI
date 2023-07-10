@@ -1,0 +1,28 @@
+﻿  AI.cpp
+  Chess.cpp
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(65,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(65,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(66,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(66,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(76,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(77,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(78,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(79,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(81,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(85,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(94,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(96,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(106,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(107,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(116,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(117,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(118,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(136,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(137,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ChessGame.cpp
+  Man.cpp
+  源.cpp
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\源.cpp(7,27): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码...
+C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\Chess.cpp(131): warning C4715: “Chess::clickBoard”: 不是所有的控件路径都返回值
+  小学期五子棋.vcxproj -> C:\Users\iceli\Desktop\工作\程序\visual studio\小学期五子棋\x64\Debug\小学期五子棋.exe
